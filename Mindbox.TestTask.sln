@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindbox.TestTask.Domain", "Mindbox.TestTask.Domain\Mindbox.TestTask.Domain.csproj", "{4CDB5882-6C08-490C-A22A-27954C82F01C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindbox.TestTask.Tests", "Mindbox.TestTask.Tests\Mindbox.TestTask.Tests.csproj", "{79AD7C2F-FB58-436B-9C89-EE7C5C27E9B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CDB5882-6C08-490C-A22A-27954C82F01C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CDB5882-6C08-490C-A22A-27954C82F01C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CDB5882-6C08-490C-A22A-27954C82F01C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CDB5882-6C08-490C-A22A-27954C82F01C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79AD7C2F-FB58-436B-9C89-EE7C5C27E9B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79AD7C2F-FB58-436B-9C89-EE7C5C27E9B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79AD7C2F-FB58-436B-9C89-EE7C5C27E9B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79AD7C2F-FB58-436B-9C89-EE7C5C27E9B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95DFFDC2-6715-463B-8933-43C2479BAC9A}
+	EndGlobalSection
+EndGlobal
